@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[Tassion]]></title>
         <description><![CDATA[Tassion]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tassion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 16:17:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Dec 2015 01:00:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tassion/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chris Ball]]></title>
+            <description><![CDATA[<article><h1>Chris Ball</h1><p>(This post is an aspirational transcript of the talk I gave to the Data Terra Nemo conference in May 2015. If you'd like to watch the less eloquent version of the same talk that I actually gave, the video should be available soon!)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d907d445716df4b489d040b6501022da10b0b21e.jpg"></article>]]></description>
+            <link>http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/</link>
+            <guid isPermaLink="false">18373262-ff13-4190-99c0-3041dbea27c8</guid>
+            <pubDate>Wed, 30 Dec 2015 01:00:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefineddf16c815-5190-416d-a528-1256558e8404/index.html</link>
+            <description><![CDATA[<p>I feel like the utils.js item in this should be part of the package.</p>]]></description>
+            <link>https://thegrid.ai/tassion/df16c815-5190-416d-a528-1256558e8404/index.html</link>
             <guid isPermaLink="false">df16c815-5190-416d-a528-1256558e8404</guid>
             <pubDate>Sun, 27 Dec 2015 16:17:08 GMT</pubDate>
         </item>
