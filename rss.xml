@@ -4,11 +4,18 @@
         <description><![CDATA[Tassion]]></description>
         <link>https://thegrid.ai/tassion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 01:00:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jan 2016 14:59:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tassion/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[jeremytwfortune/denim]]></title>
+            <description><![CDATA[<article><h1>jeremytwfortune/denim</h1><p>denim - Data filE NewlIne reMoval</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6993c2800e4d280b758691401e77ba7f02a5f1a.jpg"></article>]]></description>
+            <link>https://github.com/jeremytwfortune/denim</link>
+            <guid isPermaLink="false">8e8fcda1-2183-486b-b7ef-e1cc2d5327fe</guid>
+            <pubDate>Fri, 01 Jan 2016 14:59:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Chris Ball]]></title>
-            <description><![CDATA[<article><h1>Chris Ball</h1><p>(This post is an aspirational transcript of the talk I gave to the Data Terra Nemo conference in May 2015. If you'd like to watch the less eloquent version of the same talk that I actually gave, the video should be available soon!)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d907d445716df4b489d040b6501022da10b0b21e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Chris Ball</h1><p>(This post is an aspirational transcript of the talk I gave to the Data Terra Nemo conference in May 2015. If you'd like to watch the less eloquent version of the same talk that I actually gave, the video should be available soon!)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/606056ce9926b5b9b18dfc9e02a49b4df99d5069.jpg"></article>]]></description>
             <link>http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/</link>
             <guid isPermaLink="false">18373262-ff13-4190-99c0-3041dbea27c8</guid>
             <pubDate>Wed, 30 Dec 2015 01:00:02 GMT</pubDate>
